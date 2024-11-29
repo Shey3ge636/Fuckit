@@ -2,7 +2,7 @@
 
 For cpu-only pod
 
-```bash
+```xml
 kubectl apply -f ./kubernetes/manifest/base
 ```
 
